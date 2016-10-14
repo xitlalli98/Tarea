@@ -1,0 +1,12 @@
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Xitlalli\Documents\Visual Studio 2015\Projects\tarea\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Xitlalli\OneDrive\Documentos\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
